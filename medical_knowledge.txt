@@ -1,0 +1,85 @@
+# Interpretation of Medical Examination Indicators
+
+## Blood Routine
+
+### White Blood Cell Count (WBC)
+- Normal Range: 4.0-10.0 x 10^9/L
+- Elevated: May indicate infection, inflammation, leukemia, etc.
+- Decreased: May indicate viral infection, drug side effects, immune system diseases, etc.
+
+### Red Blood Cell Count (RBC)
+- Normal Range: Male 4.0-5.5 x 10^12/L, Female 3.5-5.0 x 10^12/L
+- Elevated: May indicate dehydration, polycythemia vera, etc.
+- Decreased: May indicate anemia, bleeding, etc.
+
+### Hemoglobin (HGB)
+- Normal Range: Male 130-175 g/L, Female 115-150 g/L
+- Elevated: May indicate dehydration, polycythemia vera, etc.
+- Decreased: May indicate anemia, bleeding, etc.
+
+### Platelet Count (PLT)
+- Normal Range: 100-300 x 10^9/L
+- Elevated: May indicate inflammation, infection, myeloproliferative diseases, etc.
+- Decreased: May indicate thrombocytopenia, drug side effects, etc.
+
+## Liver Function
+
+### Alanine Aminotransferase (ALT)
+- Normal Range: 0-40 U/L
+- Elevated: May indicate hepatitis, fatty liver, drug-induced liver injury, etc.
+
+### Aspartate Aminotransferase (AST)
+- Normal Range: 0-40 U/L
+- Elevated: May indicate hepatitis, myocardial infarction, muscle injury, etc.
+
+### Total Bilirubin (TBIL)
+- Normal Range: 3-22 umol/L
+- Elevated: May indicate biliary obstruction, hemolytic anemia, liver cell damage, etc.
+
+## Kidney Function
+
+### Creatinine (CRE)
+- Normal Range: Male 59-104 umol/L, Female 44-80 umol/L
+- Elevated: May indicate renal insufficiency, kidney failure, etc.
+
+### Blood Urea Nitrogen (BUN)
+- Normal Range: 3.2-7.1 mmol/L
+- Elevated: May indicate renal insufficiency, dehydration, etc.
+
+## Blood Lipids
+
+### Total Cholesterol (TC)
+- Ideal Range: < 5.2 mmol/L
+- Borderline High: 5.2-6.2 mmol/L
+- Elevated: > 6.2 mmol/L, may increase the risk of cardiovascular diseases.
+
+### Triglycerides (TG)
+- Ideal Range: < 1.7 mmol/L
+- Borderline High: 1.7-2.3 mmol/L
+- Elevated: > 2.3 mmol/L, may increase the risk of cardiovascular diseases.
+
+### High-Density Lipoprotein Cholesterol (HDL-C)
+- Ideal Range: Male > 1.0 mmol/L, Female > 1.3 mmol/L
+- Decreased: May increase the risk of cardiovascular diseases.
+
+### Low-Density Lipoprotein Cholesterol (LDL-C)
+- Ideal Range: < 3.4 mmol/L
+- Elevated: > 3.4 mmol/L, may increase the risk of cardiovascular diseases.
+
+## Blood Glucose
+
+### Fasting Blood Glucose (FBG)
+- Normal Range: 3.9-6.1 mmol/L
+- Elevated: May indicate diabetes, stress hyperglycemia, etc.
+- Decreased: May indicate hypoglycemia, etc.
+
+## Personalized Recommendations
+
+*   **Elevated Blood Lipids:** It is recommended to adjust the diet, reduce the intake of high-cholesterol and high-fat foods, increase exercise, and take lipid-lowering drugs as directed by your doctor if necessary.
+*   **Elevated Blood Glucose:** It is recommended to control your diet, avoid sugary foods, increase exercise, monitor blood glucose regularly, and take hypoglycemic drugs or inject insulin as directed by your doctor if necessary.
+*   **Abnormal Liver Function:** It is recommended to avoid alcohol, pay attention to rest, avoid using drugs that are harmful to the liver, and have liver function rechecked regularly.
+*   **Abnormal Kidney Function:** It is recommended to control your diet, avoid overwork, avoid using drugs that are harmful to the kidneys, and have kidney function rechecked regularly.
+
+#Disclaimer
+
+The above information is for reference only and cannot replace the diagnosis and treatment advice of a doctor. Be sure to consult a professional doctor for individualized assessment and treatment.
